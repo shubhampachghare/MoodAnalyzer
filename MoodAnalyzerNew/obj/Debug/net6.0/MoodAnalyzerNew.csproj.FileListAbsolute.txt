@@ -1,0 +1,15 @@
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\bin\Debug\net6.0\MoodAnalyzerNew.exe
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\bin\Debug\net6.0\MoodAnalyzerNew.deps.json
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\bin\Debug\net6.0\MoodAnalyzerNew.runtimeconfig.json
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\bin\Debug\net6.0\MoodAnalyzerNew.dll
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\bin\Debug\net6.0\MoodAnalyzerNew.pdb
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.csproj.AssemblyReference.cache
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.AssemblyInfoInputs.cache
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.AssemblyInfo.cs
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.csproj.CoreCompileInputs.cache
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.dll
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\refint\MoodAnalyzerNew.dll
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.pdb
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\MoodAnalyzerNew.genruntimeconfig.cache
+C:\RFP-260\MoodAnalyzerNew\MoodAnalyzerNew\obj\Debug\net6.0\ref\MoodAnalyzerNew.dll
